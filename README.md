@@ -33,7 +33,7 @@ Als er tenslotte ook nog javascript beschikbaar is dan kan er gebruik worden gem
 
 
 ## Wiki
-Ik heb ook onderzoek gedaan naar de bepaalde JavaScript begrippen in met Wiki:
+Ik heb ook onderzoek gedaan naar de bepaalde JavaScript begrippen in mijn Wiki:
 https://github.com/pepijnkok/fe-assessment-2/wiki
 
 
